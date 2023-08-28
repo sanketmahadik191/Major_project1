@@ -4,7 +4,10 @@ This repository contains the code for the Aria Consultancy website, a static web
 The website provides information about the company's services, projects, team, and ways to get in touch.
 
 ## Live Demo
-Check out the live website: Aria Consultancy Website
+Check out the live website: Aria Consultancy Website;
+
+Hosted Link: https://sanketmahadik191.github.io/Major_project1/
+
 
 ## Screenshots
 
